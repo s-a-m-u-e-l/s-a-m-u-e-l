@@ -26,16 +26,17 @@ const sam = {
   code: [Javascript, Typescript, HTML, CSS, Java, Python],
   tools: [Angular, Vue, Spring-Boot, Cypress, Jest, Docker, Jenkins],
   architecture: ["microservices"],
-
+  roles: ["ICT-Starter", "DevOps Engineer"],
+  certificates: "Informatics EFZ",
+  challenge: "I am creating my first android app",
   companies: [
                 {
                   name: "Swisscom (Schweiz) AG",
                   location: "Zurich CH",
-                  role: "DevOps Engineer"
+                  start: "2017"
+                  end: "2023"
                 },
-              ],
-  education: "Informatics EFZ",
-  challenge: "I am creating my first android app"
+              ]
 }
 ```
 
