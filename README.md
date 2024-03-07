@@ -18,6 +18,26 @@ If you share the excitement for embarking on new projects with all the risks it 
 
 #### :telephone_receiver: Contact me on LinkedIn: https://www.linkedin.com/in/samuel-signer/
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const sam = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Java, Python],
+  tools: [Angular, Vue, Spring-Boot, Cypress, Jest, Docker, Jenkins],
+  architecture: ["microservices"],
+
+  companies: [
+                {
+                  name: "Swisscom (Schweiz) AG",
+                  location: "Zurich CH",
+                  role: "DevOps Engineer"
+                },
+              ],
+  education: "Informatics EFZ",
+  challenge: "I am creating my first android app"
+}
+```
 
 
 <!--
